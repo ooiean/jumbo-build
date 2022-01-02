@@ -17,6 +17,7 @@ export function HomePage() {
       </Helmet>
       <NavBar />
       <PageWrapper>
+        <h1>hello world testing from github</h1>
         <Masthead />
         <Features />
       </PageWrapper>
