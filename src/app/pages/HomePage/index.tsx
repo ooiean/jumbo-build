@@ -16,6 +16,7 @@ export function HomePage() {
         />
       </Helmet>
       <NavBar />
+      <h1>hello world from ooiean</h1>
       <PageWrapper>
         <Masthead />
         <Features />
